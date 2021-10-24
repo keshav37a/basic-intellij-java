@@ -1,8 +1,8 @@
 ## Compiling
 
-./gradlew jar
+`./gradlew jar`
 
 ## Running
 
 Go to folder `build/libs`  
-Run `java -jar 1.Starting-1.0-SNAPSHOT.jar`
+Run `java -jar 1.Starting-1.0-SNAPSHOT.jar <YOUR_NAME>`
